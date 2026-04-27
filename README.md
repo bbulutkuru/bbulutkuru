@@ -1,153 +1,259 @@
 # 👋 Merhaba, Ben Bulut Kuru
 
-### **Software Development Coordinator & Senior Full Stack Architect**
+## Software Development Coordinator & Senior Backend Architect
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Experience-15+_Years-blue?style=for-the-badge&logo=expert-exchange" />
-  <img src="https://img.shields.io/badge/Location-Istanbul-red?style=for-the-badge&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Role-Team_Lead_%26_Architect-darkgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-15+_Years-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-400+_Corporate-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Istanbul-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Laravel_%7C_Node.js_%7C_DevOps-darkgreen?style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 Özetle Ben Kimim?
+## 🚀 Hakkımda
 
-2012 yılından bu yana profesyonel olarak yazılım geliştiriyorum.  
-Odak noktam; **kurumsal ölçekte**, **yüksek trafikli**, **ölçeklenebilir** ve **uzun ömürlü** sistemler tasarlamak.
+15 yılı aşkın süredir profesyonel olarak yazılım geliştiriyorum.  
+Ana uzmanlık alanım; **kurumsal ölçekte backend mimarileri**, **yüksek trafikli API sistemleri**, **Laravel & Node.js tabanlı servisler**, **DevOps süreçleri** ve **sürdürülebilir yazılım altyapılarıdır**.
 
-Ağırlıklı olarak **PHP & Laravel** ekosistemi üzerinde çalışıyor;  
-API-first yaklaşımla geliştirilen backend sistemleri, bu sistemleri tüketen modern frontend’ler ve altyapı süreçlerini birlikte ele alıyorum.
+Bugüne kadar özel sektör ve kamu kurumları için;
 
-**En son** İstanbul Büyükşehir Belediyesi (**İBB**) bünyesinde  
-**Full Stack Developer Team Lead / Software Development Coordinator** olarak;
+- **400+ kurumsal proje**
+- **65+ Laravel backend/API sistemi**
+- **17+ Node.js backend servisi**
+- **300+ React.js / Next.js frontend**
+- **17 kurum ve belediye danışmanlığı**
+- **10–25 kişilik geliştirici ekiplerinde teknik liderlik**
 
-- kritik kamu sistemlerinin mimari kararlarını,
-- geliştirici ekiplerinin teknik yönlendirmesini,
-- CI/CD ve DevOps süreçlerini
+deneyimi edindim.
 
-yöneterek çalıştım.
+Backend tarafında ağırlıklı olarak **PHP & Laravel** ekosisteminde çalışıyorum.  
+Aynı mimari disiplini **Node.js, Express.js ve NestJS** tarafında da uygulayarak servis tabanlı, ölçeklenebilir ve sürdürülebilir backend sistemleri geliştiriyorum.
 
-> Benim için yazılım; sadece kod değil, **sürdürülebilir bir sistemdir**.
+> Benim için yazılım sadece çalışan kod değildir.  
+> Yıllar sonra da geliştirilebilen, ölçeklenebilen ve ekip tarafından sürdürülebilen sistemler üretmektir.
+
+---
+
+## 🏛️ Son Deneyim
+
+### Software Development Coordinator & Full Stack Team Lead  
+**İstanbul Büyükşehir Belediyesi — 2017 / 2026**
+
+İBB bünyesinde, kamuya açık ve kurumsal ölçekte çalışan geniş bir dijital ekosistemin teknik liderliğini üstlendim.
+
+Bu süreçte;
+
+- **186 kurumsal web sitesi**
+- **250+ web uygulaması**
+- **8 Linux sunucusu**
+- **Rancher + Kubernetes altyapısı**
+- **GitLab, Docker, CI/CD pipeline süreçleri**
+- **Grafana + Loki monitoring yapıları**
+- **Milyon+ kayıt alan vatandaş başvuru sistemleri**
+
+üzerinde mimari kararlar aldım, geliştirme süreçlerini yönettim ve ekipleri teknik olarak yönlendirdim.
+
+---
+
+## 🧠 Uzmanlık Alanlarım
+
+### Backend Architecture
+
+- PHP 8.x & Laravel 8–12
+- API-first backend mimarileri
+- RESTful API tasarımı
+- Domain-Driven Design yaklaşımları
+- Modular Monolith mimariler
+- Repository / Service / DTO / Action yapıları
+- Queue, Job, Listener ve Event-driven sistemler
+- Redis cache, queue ve pub/sub yapıları
+- Multi-tenant sistem tasarımı
+- Authentication & Authorization
+- ACL / RBAC / Sanctum / JWT / OAuth2
+- Büyük veri setlerinde query optimizasyonu
+- Transaction, locking ve veri bütünlüğü yönetimi
+- Legacy sistemlerden modern mimariye geçiş
+
+---
+
+### Node.js & Modern Backend
+
+- Node.js
+- Express.js
+- NestJS
+- Microservice mimarileri
+- Controller / Service / Module yapısı
+- Middleware & validation süreçleri
+- Background job sistemleri
+- Scalable API geliştirme
+- Framework bağımsız backend mimarisi düşünme
+
+---
+
+### Frontend & UI
+
+- React.js
+- Next.js
+- TypeScript
+- JavaScript ES6+
+- TailwindCSS
+- shadcn/ui
+- Bootstrap
+- HTML5 / CSS3
+- Admin panel & dashboard geliştirme
+- API tüketen modern frontend yapıları
+- Server / Client Component ayrımı
+- SEO-friendly Next.js yapıları
+
+---
+
+### DevOps & Infrastructure
+
+- Linux Server Management
+- Docker & Docker Compose
+- Kubernetes
+- Rancher
+- Nginx Advanced Configuration
+- Reverse Proxy
+- SSL / DNS / Domain Management
+- Gitea
+- GitLab
+- Drone CI
+- GitHub Actions
+- CI/CD pipeline tasarımı
+- Production environment yönetimi
+- Server hardening
+- Backup ve deployment süreçleri
+
+---
+
+### Monitoring & Logging
+
+- Grafana
+- Loki
+- Prometheus
+- Elasticsearch
+- Logstash
+- Production debugging
+- Performans izleme
+- Merkezi log yönetimi
 
 ---
 
 ## 🏗️ Sayılarla Deneyim
 
-- 🏆 **180+** Kurumsal Web & Backend Projesi
-- 🧩 **65+** Büyük Ölçekli Laravel Uygulaması
-- 👥 **10–25 kişilik** geliştirici ekiplerinin teknik liderliği
-- 📊 **Milyon+ kayıt** ve yüksek eşzamanlı kullanıcıya sahip sistemler
-- 🏛️ Kamu & kurumsal projelerde **production** ortamı deneyimi
+| Alan | Deneyim |
+|---|---:|
+| Toplam Deneyim | 15+ yıl |
+| Kurumsal Proje | 400+ |
+| Laravel Backend | 65+ |
+| Node.js Backend | 17+ |
+| React / Next.js Frontend | 300+ |
+| Kurum Danışmanlığı | 17 |
+| Özel Sektör Projesi | 150+ |
+| Ekip Liderliği | 10–25 kişi |
 
 ---
 
-## 🛠️ Teknolojik Yetkinliklerim
+## 🛠️ Tech Stack
 
-### 🔹 Backend & Core
+### Backend
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![API](https://img.shields.io/badge/REST_API-000000?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=flat-square)
 
-- **15+ yıl PHP & Laravel** ile kurumsal backend geliştirme deneyimi  
-- MVC tabanlı monolith projelerden, **API-first mimarilere** uzanan geniş proje geçmişi  
-- Laravel (8–12) ile uzun ömürlü, bakımı kolay sistemler geliştirme  
-- RESTful & JSON tabanlı API tasarımı (frontend & mobil uygulamalar için)  
-- **Modüler ve katmanlı backend mimarileri** (Controller / Service / Repository ayrımı)  
-- Domain odaklı yapılandırmalar (DDD’ye yakın pratik yaklaşımlar)  
-- **Queue & Event-driven sistemler** (Job, Listener, Worker mimarileri)  
-- **Cache-first stratejiler** (Redis ile query, response ve object cache)  
-- Rate limiting, throttling ve API güvenliği  
-- Authentication & Authorization  
-  - Role & Permission sistemleri  
-  - Token / Sanctum / session tabanlı kimlik doğrulama  
-- MySQL üzerinde:
-  - indexleme, query optimizasyonu  
-  - büyük veri setleriyle çalışma  
-  - transaction & locking yönetimi  
-- **Yüksek trafikli sistemler** için performans iyileştirmeleri  
-- Background işlemlerle senkron yük azaltma  
-- Loglama, hata yönetimi ve production debugging  
-- Multi-database ve environment-aware yapılandırmalar  
-- Legacy sistemlerden yeni mimarilere **kademeli dönüşüm** tecrübesi  
-- Uzun soluklu canlı sistemlerde bakım, refactor ve ölçeklendirme deneyimi  
+### Frontend
 
-> Backend tarafında sadece “kod yazan” değil,  
-> **sistemin tamamını düşünen ve sürdürülebilir hale getiren** bir yaklaşımla çalışırım.
-
----
-
-### 🎨 Frontend & UI
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-- HTML / CSS ile responsive UI geliştirme  
-- JavaScript & jQuery ile dinamik arayüzler  
-- Bootstrap ile hızlı kurumsal arayüz tasarımı  
-- TailwindCSS ile modern component yaklaşımı  
-- shadcn/ui ile Next.js tabanlı modern, tutarlı UI bileşenleri  
+### Database & Cache
 
-**React.js**
-- Component-based mimari
-- Hooks (`useState`, `useEffect`, `useMemo`, `useCallback`)
-- API tüketen admin panel & dashboard geliştirme
-- Backend ile net ayrılmış frontend yapıları
-- Performans odaklı component tasarımı
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**Next.js (Advanced)**
-- App Router & modern routing
-- Server / Client Component ayrımı
-- SEO-friendly yapı (metadata, dynamic routes)
-- Authentication-aware frontend mimarisi
-- Production-ready build & deployment süreçleri
+### DevOps
 
----
-
-## ⚙️ DevOps & Infrastructure
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=flat-square&logo=rancher&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-- Docker & container mimarileri
-- Kubernetes (Rancher)
-- CI/CD: Gitea + Drone CI
-- Monitoring: Grafana, Loki, Elasticsearch
-- Server hardening & güvenlik odaklı yapı
+### Monitoring
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-0B1F30?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
 ---
 
-## 🎯 Odaklandığım Alanlar
-- ✔️ Yüksek trafikli backend mimarileri  
-- ✔️ Ölçeklenebilir API tasarımları  
-- ✔️ CI/CD otomasyonu  
-- ✔️ Code quality & mimari review  
-- ✔️ Senior developer mentörlüğü  
+## 🧩 Öne Çıkan Proje Deneyimleri
+
+- Belediye başvuru sistemleri
+- Kurumsal CMS altyapıları
+- Otel yönetim & rezervasyon sistemleri
+- Envanter & stok yönetim sistemleri
+- Task management sistemleri
+- Project management araçları
+- LMS / uzaktan eğitim platformları
+- WhatsApp lead otomasyon sistemleri
+- Multi-tenant gelir/gider yönetim sistemleri
+- Yüksek trafikli canlı yayın altyapıları
+- Kurumsal web ekosistemleri
+- DevOps ve CI/CD altyapı dönüşümleri
+
+---
+
+## 🎯 Mimari Yaklaşımım
+
+Ben framework odaklı değil, **mimari odaklı** düşünürüm.
+
+Bir sistemi geliştirirken sadece bugünkü ihtiyacı değil;
+
+- yarınki ölçeklenebilirliği,
+- ekip tarafından sürdürülebilirliği,
+- teknik borcun yönetilebilirliğini,
+- performans ve güvenlik ihtiyaçlarını,
+- deployment ve monitoring süreçlerini
+
+birlikte ele alırım.
 
 ---
 
 ## 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bulutaraskuru&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulutaraskuru&layout=compact&theme=vue-dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bbulutkuru&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbulutkuru&layout=compact&theme=vue-dark&hide_border=true" />
 </p>
 
 ---
 
 ## 📫 İletişim
-- 💼 LinkedIn: https://linkedin.com/in/bulut-kuru-05770b140  
+
+- 💼 LinkedIn: https://linkedin.com/in/bulut-kuru  
+- 🧑‍💻 GitHub: https://github.com/bbulutkuru  
 - ✉️ Mail: bbulutkuru@gmail.com  
+- 📍 İstanbul, Türkiye
+
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" />
 </p>
