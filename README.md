@@ -1,259 +1,542 @@
+<div align="center">
+
 # 👋 Merhaba, Ben Bulut Kuru
 
-## Software Development Coordinator & Senior Backend Architect
+### Software Development Coordinator | Senior Full Stack Architect
+### Backend Engineering • System Architecture • DevOps • Artificial Intelligence
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Experience-15+_Years-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Projects-400+_Corporate-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Istanbul-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Laravel_%7C_Node.js_%7C_DevOps-darkgreen?style=for-the-badge" />
-</p>
+**Building scalable software architectures, intelligent systems and enterprise platforms.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bulut-kuru)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bbulutkuru)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bbulutkuru@gmail.com)
+
+![Experience](https://img.shields.io/badge/Experience-15%2B_Years-blue?style=flat-square)
+![Projects](https://img.shields.io/badge/Enterprise_Projects-400%2B-success?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Istanbul%2C_Türkiye-red?style=flat-square)
+
+</div>
 
 ---
 
 ## 🚀 Hakkımda
 
-15 yılı aşkın süredir profesyonel olarak yazılım geliştiriyorum.  
-Ana uzmanlık alanım; **kurumsal ölçekte backend mimarileri**, **yüksek trafikli API sistemleri**, **Laravel & Node.js tabanlı servisler**, **DevOps süreçleri** ve **sürdürülebilir yazılım altyapılarıdır**.
+15 yılı aşkın süredir kurumsal yazılım sistemleri geliştiriyor,
+teknik ekipleri yönetiyor ve ölçeklenebilir yazılım mimarileri tasarlıyorum.
 
-Bugüne kadar özel sektör ve kamu kurumları için;
+Kariyerim boyunca kamu kurumları ve özel sektör kuruluşlarında
+backend mimarisi, full stack geliştirme, sistem yönetimi,
+DevOps ve kurumsal yazılım dönüşümü alanlarında çalıştım.
 
-- **400+ kurumsal proje**
-- **65+ Laravel backend/API sistemi**
-- **17+ Node.js backend servisi**
-- **300+ React.js / Next.js frontend**
-- **17 kurum ve belediye danışmanlığı**
-- **10–25 kişilik geliştirici ekiplerinde teknik liderlik**
+Bugün ağırlıklı olarak:
 
-deneyimi edindim.
+- Enterprise Software Architecture
+- Backend & API Engineering
+- Full Stack Application Development
+- Legacy System Modernization
+- Cloud & DevOps Infrastructure
+- Database Architecture & Performance
+- Hospitality Technology Platforms
+- Artificial Intelligence & LLM Integration
+- Engineering Leadership
 
-Backend tarafında ağırlıklı olarak **PHP & Laravel** ekosisteminde çalışıyorum.  
-Aynı mimari disiplini **Node.js, Express.js ve NestJS** tarafında da uygulayarak servis tabanlı, ölçeklenebilir ve sürdürülebilir backend sistemleri geliştiriyorum.
+alanlarına odaklanıyorum.
 
-> Benim için yazılım sadece çalışan kod değildir.  
-> Yıllar sonra da geliştirilebilen, ölçeklenebilen ve ekip tarafından sürdürülebilen sistemler üretmektir.
+**Teknoloji seçiminden önce doğru mimariyi, sürdürülebilirliği
+ve sistemin uzun vadeli başarısını önceliklendiriyorum.**
 
----
-
-## 🏛️ Son Deneyim
-
-### Software Development Coordinator & Full Stack Team Lead  
-**İstanbul Büyükşehir Belediyesi — 2017 / 2026**
-
-İBB bünyesinde, kamuya açık ve kurumsal ölçekte çalışan geniş bir dijital ekosistemin teknik liderliğini üstlendim.
-
-Bu süreçte;
-
-- **186 kurumsal web sitesi**
-- **250+ web uygulaması**
-- **8 Linux sunucusu**
-- **Rancher + Kubernetes altyapısı**
-- **GitLab, Docker, CI/CD pipeline süreçleri**
-- **Grafana + Loki monitoring yapıları**
-- **Milyon+ kayıt alan vatandaş başvuru sistemleri**
-
-üzerinde mimari kararlar aldım, geliştirme süreçlerini yönettim ve ekipleri teknik olarak yönlendirdim.
+> Great software is not just about writing code.
+> It's about designing systems that remain reliable,
+> scalable and maintainable as they grow.
 
 ---
 
-## 🧠 Uzmanlık Alanlarım
+# 💼 Profesyonel Deneyim
 
-### Backend Architecture
+## 🏨 Extranetwork
 
-- PHP 8.x & Laravel 8–12
-- API-first backend mimarileri
-- RESTful API tasarımı
-- Domain-Driven Design yaklaşımları
-- Modular Monolith mimariler
-- Repository / Service / DTO / Action yapıları
-- Queue, Job, Listener ve Event-driven sistemler
-- Redis cache, queue ve pub/sub yapıları
-- Multi-tenant sistem tasarımı
-- Authentication & Authorization
-- ACL / RBAC / Sanctum / JWT / OAuth2
-- Büyük veri setlerinde query optimizasyonu
-- Transaction, locking ve veri bütünlüğü yönetimi
-- Legacy sistemlerden modern mimariye geçiş
+### Software Development Coordinator & Senior Full Stack Architect
+
+**Nisan 2026 – Günümüz**
+
+🌐 [extranetwork.com](https://www.extranetwork.com)
+
+Extranetwork bünyesinde otel teknolojileri, rezervasyon sistemleri,
+kurumsal yönetim platformları ve yeni nesil yazılım altyapılarının
+geliştirilmesi üzerine çalışıyorum.
+
+Yazılım geliştirme süreçlerinin koordinasyonu,
+sistem mimarisinin modernizasyonu ve teknik altyapının
+sürdürülebilir şekilde geliştirilmesi sorumluluklarını üstleniyorum.
+
+### 🏗️ Software Architecture & Modernization
+
+- Legacy Laravel ve Lumen uygulamalarının mimari analizi
+- Laravel 13 tabanlı yeni nesil Crm mimarisi
+- API-first yaklaşımıyla servislerin yeniden yapılandırılması
+- Domain-Driven Design ve modular architecture yaklaşımları
+- Monolith sistemlerin modernizasyonu
+- Backend ve frontend katmanlarının ayrıştırılması
+- RESTful API standardizasyonu
+- Authentication, authorization ve RBAC mimarileri
+- Kod kalitesi, sürdürülebilirlik ve teknik borç yönetimi
+
+### 🗄️ Database Modernization
+
+- MySQL 5.5 → MySQL 8.0 geçiş mimarisi
+- Legacy database migration stratejileri
+- Büyük veri setlerinde performans optimizasyonu
+- Veri bütünlüğü ve transaction yönetimi
+- Kesintiyi en aza indiren migration planları
+- Redis cache ve queue altyapıları
+- Database compatibility ve regression analizleri
+
+### 🏨 Hospitality Technology
+
+Otel teknolojileri ekosisteminde aşağıdaki sistemler üzerinde
+mimari geliştirme, entegrasyon ve ürün iyileştirme
+çalışmaları yürütüyorum.
+
+- Hotel Booking Engine
+- Hotel Management Platforms
+- Direct Booking Technologies
+- Google Hotels & Hotel Center Integrations
+- Booking.com Connectivity Integrations
+- Hotel Pricing & Availability Systems
+- Reservation Analytics
+- Conversion Analytics
+- Booking Funnel Analytics
+- Revenue Intelligence
+- Hotel Website Infrastructure
+- Multi-property Management
+
+### 📊 Analytics & Business Intelligence
+
+Otel rezervasyon süreçlerini daha ölçülebilir
+ve yönetilebilir hale getirmeye yönelik analitik sistemler:
+
+- Booking Conversion Analytics
+- Checkout Abandonment Analysis
+- Booking Leakage Analysis
+- Revenue Performance Dashboards
+- Hotel-based Financial Analytics
+- Sales Performance Monitoring
+- Operational Reporting
+- Revenue Intelligence Research
+
+### 🤖 Artificial Intelligence & Automation
+
+Otel teknolojileri ve kurumsal uygulamalarda yapay zekâ
+entegrasyonları üzerine çalışıyorum.
+
+**AI Research & Development**
+
+- Local Large Language Models
+- LLM-powered Applications
+- Retrieval-Augmented Generation (RAG)
+- AI Agents & Workflow Automation
+- AI-assisted Reservation Systems
+- WhatsApp AI Assistants
+- AI-powered Hotel Pricing Analysis
+- Intelligent Business Analytics
+- OpenAI-compatible LLM APIs
+- Self-hosted AI Infrastructure
+
+**Araştırma ve geliştirme teknolojileri:**
+
+`Qwen` `Ollama` `vLLM` `RAG` `LLM`
+`AI Agents` `Vector Databases` `Python`
+
+### ⚙️ DevOps & Infrastructure
+
+- Linux production & staging environments
+- Docker-based application infrastructure
+- Nginx reverse proxy architecture
+- Gitea Git server infrastructure
+- Drone CI/CD pipelines
+- Git branching & deployment strategies
+- MySQL & Redis container environments
+- SSL, DNS ve network configuration
+- Monitoring & observability architecture
+- Automated deployment processes
+- Backup and disaster recovery planning
+
+### 🛠️ Kullanılan Teknolojiler
+
+**Backend**
+
+`PHP` `Laravel` `Lumen` `Node.js` `Python`
+`REST API`  `Redis` `MySQL`
+
+**Frontend**
+
+`React` `Next.js` `TypeScript`
+`Tailwind CSS` `shadcn/ui` `Vite`
+
+**Infrastructure**
+
+`Linux` `Docker` `Nginx`
+`Gitea` `Drone CI` `Git`
+`Grafana` `Prometheus` `Loki`
 
 ---
 
-### Node.js & Modern Backend
+## 🏛️ İstanbul Büyükşehir Belediyesi
 
+### Software Development Coordinator & Full Stack Team Lead
+
+**2017 – 2026**
+
+İstanbul Büyükşehir Belediyesi bünyesinde
+kurumsal yazılım ekosistemlerinin geliştirilmesi,
+modernizasyonu ve teknik yönetiminde görev aldım.
+
+Kamuya açık yüksek trafikli sistemlerden kurum içi
+yönetim platformlarına kadar geniş bir yazılım
+ekosisteminin teknik süreçlerini yönettim.
+
+### 📌 Sorumluluklar ve Ölçek
+
+- 186 kurumsal web sitesi
+- 250+ web uygulaması
+- 8 Linux sunucusu
+- Kubernetes & Rancher infrastructure
+- Docker-based deployment environments
+- GitLab CI/CD pipelines
+- Grafana & Loki observability
+- Enterprise CMS architecture
+- High-traffic citizen services
+- 10–25 kişilik geliştirici ekiplerinde teknik liderlik
+
+### 🏗️ Öne Çıkan Çalışmalar
+
+**BYSY – Kurumsal Yönetim Sistemi**
+
+Kurumsal iş süreçlerini merkezi olarak yönetmek üzere
+geliştirilen platformun teknik liderliği ve mimari yönetimi.
+
+**Enterprise Web Ecosystem**
+
+Çok sayıda kurumsal web sitesinin ve uygulamanın
+ortak standartlarla yönetilmesi.
+
+**DevOps Transformation**
+
+Deployment, container orchestration,
+monitoring ve CI/CD süreçlerinin geliştirilmesi.
+
+**Citizen Service Platforms**
+
+Yüksek veri hacmine sahip vatandaş başvuru
+ve kurumsal hizmet uygulamaları.
+
+---
+
+# 📊 Sayılarla Deneyim
+
+| Alan | Deneyim |
+|---|---:|
+| Profesyonel Yazılım Deneyimi | 15+ Yıl |
+| Kurumsal Proje | 400+ |
+| Laravel Backend/API | 65+ |
+| Node.js Backend | 17+ |
+| React / Next.js Frontend | 300+ |
+| Kurum ve Belediye Danışmanlığı | 17 |
+| Özel Sektör Projesi | 150+ |
+| Teknik Liderlik | 10–25 Kişilik Ekipler |
+
+---
+
+# 🧠 Technical Expertise
+
+## 🏗️ Software Architecture
+
+- Enterprise Application Architecture
+- Domain-Driven Design (DDD)
+- Clean Architecture
+- Modular Monolith
+- Service-Oriented Architecture
+- Microservices
+- API-first Architecture
+- Event-Driven Systems
+- Multi-Tenant SaaS Architecture
+- Legacy System Modernization
+- Design Patterns
+- SOLID Principles
+- Technical Debt Management
+
+## ⚡ Backend Engineering
+
+- PHP 8.x
+- Laravel
+- Laravel Lumen
 - Node.js
 - Express.js
 - NestJS
-- Microservice mimarileri
-- Controller / Service / Module yapısı
-- Middleware & validation süreçleri
-- Background job sistemleri
-- Scalable API geliştirme
-- Framework bağımsız backend mimarisi düşünme
+- RESTful API Development
+- Authentication & Authorization
+- OAuth2 / JWT / Laravel Sanctum
+- Queues, Jobs & Event Listeners
+- Redis Cache & Pub/Sub
+- Database Transactions & Locking
+- Query Optimization
+- Background Processing
 
----
-
-### Frontend & UI
+## 🎨 Frontend Engineering
 
 - React.js
 - Next.js
 - TypeScript
-- JavaScript ES6+
-- TailwindCSS
+- JavaScript
+- Tailwind CSS
 - shadcn/ui
-- Bootstrap
-- HTML5 / CSS3
-- Admin panel & dashboard geliştirme
-- API tüketen modern frontend yapıları
-- Server / Client Component ayrımı
-- SEO-friendly Next.js yapıları
+- Vite
+- TanStack Query
+- TanStack Router
+- Zustand
+- Responsive Design
+- Admin Dashboards
+- SEO-friendly Web Applications
 
----
+## ☁️ DevOps & Infrastructure
 
-### DevOps & Infrastructure
-
-- Linux Server Management
+- Linux Administration
 - Docker & Docker Compose
 - Kubernetes
 - Rancher
-- Nginx Advanced Configuration
+- Nginx
 - Reverse Proxy
-- SSL / DNS / Domain Management
-- Gitea
-- GitLab
-- Drone CI
+- GitLab CI/CD
 - GitHub Actions
-- CI/CD pipeline tasarımı
-- Production environment yönetimi
-- Server hardening
-- Backup ve deployment süreçleri
+- Gitea
+- Drone CI
+- Deployment Automation
+- Infrastructure Security
+- Backup & Recovery
+- Production Monitoring
 
----
-
-### Monitoring & Logging
+## 📈 Observability
 
 - Grafana
-- Loki
 - Prometheus
+- Loki
 - Elasticsearch
 - Logstash
-- Production debugging
-- Performans izleme
-- Merkezi log yönetimi
+- Centralized Logging
+- Application Monitoring
+- Performance Analysis
+
+## 🤖 AI & Emerging Technologies
+
+- Large Language Models
+- Self-hosted LLM Infrastructure
+- Retrieval-Augmented Generation
+- AI Agents
+- AI Workflow Automation
+- LLM API Integration
+- Ollama
+- vLLM
+- Qwen
+- Vector Search
+- AI-assisted Software Development
 
 ---
 
-## 🏗️ Sayılarla Deneyim
+# 🛠️ Technology Stack
 
-| Alan | Deneyim |
-|---|---:|
-| Toplam Deneyim | 15+ yıl |
-| Kurumsal Proje | 400+ |
-| Laravel Backend | 65+ |
-| Node.js Backend | 17+ |
-| React / Next.js Frontend | 300+ |
-| Kurum Danışmanlığı | 17 |
-| Özel Sektör Projesi | 150+ |
-| Ekip Liderliği | 10–25 kişi |
-
----
-
-## 🛠️ Tech Stack
+<div align="center">
 
 ### Backend
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=flat-square)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Database & Cache
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### DevOps
+### DevOps & Infrastructure
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=flat-square&logo=rancher&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Gitea](https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white)
 
 ### Monitoring
 
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-0B1F30?style=flat-square&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+### AI & LLM
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
 
 ---
 
-## 🧩 Öne Çıkan Proje Deneyimleri
+# 🚀 Engineering Focus
 
-- Belediye başvuru sistemleri
-- Kurumsal CMS altyapıları
-- Otel yönetim & rezervasyon sistemleri
-- Envanter & stok yönetim sistemleri
-- Task management sistemleri
-- Project management araçları
-- LMS / uzaktan eğitim platformları
-- WhatsApp lead otomasyon sistemleri
-- Multi-tenant gelir/gider yönetim sistemleri
-- Yüksek trafikli canlı yayın altyapıları
-- Kurumsal web ekosistemleri
-- DevOps ve CI/CD altyapı dönüşümleri
-
----
-
-## 🎯 Mimari Yaklaşımım
-
-Ben framework odaklı değil, **mimari odaklı** düşünürüm.
-
-Bir sistemi geliştirirken sadece bugünkü ihtiyacı değil;
-
-- yarınki ölçeklenebilirliği,
-- ekip tarafından sürdürülebilirliği,
-- teknik borcun yönetilebilirliğini,
-- performans ve güvenlik ihtiyaçlarını,
-- deployment ve monitoring süreçlerini
-
-birlikte ele alırım.
+| Domain | Focus |
+|---|---|
+| 🏗️ Architecture | Enterprise & Scalable Systems |
+| ⚡ Backend | Laravel, Node.js, API Engineering |
+| 🎨 Frontend | React, Next.js, TypeScript |
+| ☁️ Infrastructure | Linux, Docker, Kubernetes |
+| 🗄️ Database | MySQL, PostgreSQL, Redis |
+| 🏨 Hospitality | Booking Engines & Hotel Technology |
+| 📊 Analytics | Revenue & Conversion Intelligence |
+| 🤖 Artificial Intelligence | LLM, RAG, AI Agents |
+| 👥 Leadership | Engineering Teams & Technical Strategy |
 
 ---
 
-## 📊 GitHub İstatistikleri
+# 🧩 Project Experience
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bbulutkuru&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbulutkuru&layout=compact&theme=vue-dark&hide_border=true" />
-</p>
+### Enterprise Platforms
+
+- Corporate Management Systems
+- Enterprise CMS Platforms
+- Multi-Tenant SaaS Applications
+- Enterprise Admin Panels
+- Project & Task Management Systems
+- Inventory & Stock Management
+- Financial Management Systems
+
+### Hospitality & Travel Technology
+
+- Hotel Booking Platforms
+- Hotel Reservation Engines
+- Hotel Website Ecosystems
+- Pricing & Availability Integrations
+- Google Hotels Integrations
+- Booking Analytics
+- Revenue Intelligence Research
+- WhatsApp Reservation Automation
+
+### Government & Public Services
+
+- Municipality Service Platforms
+- Citizen Application Systems
+- Enterprise Web Portals
+- Public Service Automation
+- Institutional Management Systems
+
+### Infrastructure & Platform Engineering
+
+- Docker-based Infrastructure
+- Kubernetes Environments
+- CI/CD Automation
+- Database Modernization
+- Monitoring & Centralized Logging
+- Production Infrastructure Management
+
+### Artificial Intelligence R&D
+
+- Local LLM Infrastructure
+- AI-powered Customer Communication
+- Intelligent Reservation Assistants
+- RAG-based Knowledge Systems
+- AI Workflow Automation
+- Hospitality AI Research
 
 ---
 
-## 📫 İletişim
+# 🎯 Engineering Philosophy
 
-- 💼 LinkedIn: https://linkedin.com/in/bulut-kuru  
-- 🧑‍💻 GitHub: https://github.com/bbulutkuru  
-- ✉️ Mail: bbulutkuru@gmail.com  
-- 📍 İstanbul, Türkiye
+Yazılım geliştirmeyi yalnızca framework veya
+programlama dili seçimi olarak değerlendirmiyorum.
+
+Başarılı bir sistemin temelinde:
+
+**Architecture**
+
+Doğru sınırlar, doğru bağımlılıklar,
+doğru veri modeli.
+
+**Scalability**
+
+Artan kullanıcı, trafik ve veri yüküne
+uyum sağlayabilen sistemler.
+
+**Maintainability**
+
+Yıllar sonra farklı ekipler tarafından
+geliştirilmeye devam edilebilen kod tabanları.
+
+**Reliability**
+
+Gözlemlenebilir, test edilebilir
+ve güvenilir production sistemleri.
+
+**Engineering Leadership**
+
+Teknik kararların ekiplerin verimliliğine
+ve ürünün uzun vadeli başarısına katkısı.
+
+**Continuous Evolution**
+
+Legacy sistemlerden modern mimarilere,
+geleneksel uygulamalardan AI destekli
+yazılım ekosistemlerine sürekli gelişim.
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" />
-</p>
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=bbulutkuru&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbulutkuru&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+> GitHub istatistikleri yalnızca erişilebilir repository
+> verilerini yansıtır. Profesyonel çalışmalarımın önemli
+> bir bölümü özel kurumsal sistemlerde gerçekleştirilmektedir.
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+Teknoloji, yazılım mimarisi, kurumsal platformlar
+ve yapay zekâ sistemleri üzerine iletişime geçebilirsiniz.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bulut_Kuru-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bulut-kuru)
+
+[![GitHub](https://img.shields.io/badge/GitHub-bbulutkuru-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bbulutkuru)
+
+[![Email](https://img.shields.io/badge/Email-bbulutkuru%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bbulutkuru@gmail.com)
+
+**📍 Istanbul, Türkiye**
+
+---
+
+*"Building systems that scale, evolve and last."*
+
+</div>
